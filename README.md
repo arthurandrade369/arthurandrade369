@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on nothing (for while).
+- 🌱 I’m currently learning PHP, SQL, C++.
+- 👯 I’m looking to collaborate on anything that i could help.
+- 🤔 I’m looking for help with everything.
+- 💬 Ask me about the answer to life, the universe and everything.
+- 📫 How to reach me: arthurandrade137@gmail.com
+- ⚡ Fun fact: Unlike Socrates, i dont know if i dont know.
 <!--
 **arthurandrade369/arthurandrade369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
