@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on nothing (for while).
-- 🌱 I’m currently learning PHP, SQL, C++.
+- 🌱 I’m currently learning PHP, SQL, C++, Linux...
 - 👯 I’m looking to collaborate on anything that i could help.
 - 🤔 I’m looking for help with everything.
 - 💬 Ask me about the answer to life, the universe and everything.
