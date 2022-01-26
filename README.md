@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on nothing (for while).
+- 🔭 I’m currently not working with anything (for now).
 - 🌱 I’m currently learning PHP, SQL, C++, Linux...
 - 👯 I’m looking to collaborate on anything that i could help.
 - 🤔 I’m looking for help with everything.
