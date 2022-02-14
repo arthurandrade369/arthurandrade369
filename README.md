@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently not working with anything (for now).
+- 🔭 I’m currently working on CS50.
 - 🌱 I’m currently learning PHP, SQL, C++, Linux...
 - 👯 I’m looking to collaborate on anything that i could help.
 - 🤔 I’m looking for help with everything.
