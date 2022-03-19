@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on CS50.
-- 🌱 I’m currently learning PHP, SQL, C++, Linux...
-- 👯 I’m looking to collaborate on anything that i could help.
-- 🤔 I’m looking for help with everything.
+- 🔭 I’m in stand-by for while.
+- 🌱 I’m currently learning PHP, SQL, HTML, CSS, JS, Linux...
+- 👯 I’m looking to collaborate on open source projects that i could help.
+- 🤔 I’m looking for help with backend.
 - 💬 Ask me about the answer to life, the universe and everything.
 - 📫 How to reach me: arthurandrade137@gmail.com
-- ⚡ Fun fact: Unlike Socrates, i dont know if i dont know.
+- ⚡ Fun fact: I love to know fun facts about general themes.
 <!--
 **arthurandrade369/arthurandrade369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
