@@ -3,7 +3,7 @@
 - 🔭 I’m in stand-by for while.
 - 🌱 I’m currently learning PHP, SQL, HTML, CSS, JS, Linux...
 - 👯 I’m looking to collaborate on open source projects that i could help.
-- 🤔 I’m looking for help with backend.
+- 🤔 I’m looking for help with frontend tips.
 - 💬 Ask me about the answer to life, the universe and everything.
 - 📫 How to reach me: arthurandrade137@gmail.com
 - ⚡ Fun fact: I love to know fun facts about general themes.
