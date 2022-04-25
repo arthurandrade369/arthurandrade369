@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m in stand-by for while.
+- 🔭 I’m working in internal projects at my job.
 - 🌱 I’m currently learning PHP, SQL, HTML, CSS, JS, Linux...
 - 👯 I’m looking to collaborate on open source projects that i could help.
 - 🤔 I’m looking for help with HTML/CSS.
