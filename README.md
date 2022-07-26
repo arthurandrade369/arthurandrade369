@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m working in internal projects at my job.
-- 🌱 I’m currently learning PHP, SQL, HTML, CSS, JS, Linux...
-- 👯 I’m looking to collaborate on open source projects that i could help.
+- 🌱 I’m currently learning PHP, SQL, HTML, CSS, NodeJS, Linux...
+- 👯 My desire is to collaborate on open source projects.
 - 🤔 I’m looking for help with HTML/CSS.
 - 💬 Ask me about the answer to life, the universe and everything.
 - ⚡ Fun fact: I love to know fun facts about general themes.
