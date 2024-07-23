@@ -1,12 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m working on a Discord Bot.
-- 🌱 I’m currently learning PHP, SQL, HTML, CSS, NodeJS, Linux...
-- 👯 My desire is to collaborate on open source projects.
-- 🤔 I’m looking for help with HTML/CSS.
-- 💬 Ask me about PHP and NodeJS, if i could help i will.
-- ⚡ Fun fact: I love Games, Animes and Math (although, im not very good in the last one).
-
 <br>
 <div>
   <a href="https://github.com/arthurandrade369">
